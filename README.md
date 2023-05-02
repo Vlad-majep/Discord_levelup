@@ -4,6 +4,8 @@ How to use ?
 
 - pip install requests
 
+- Run discord.py
+
 - Enter the discord token to your own
 
 - Enter chat id where you want to send a message
