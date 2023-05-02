@@ -2,6 +2,8 @@
 
 How to use ? 
 
+- git clone https://github.com/Vlad-majep/Discord_levelup.git
+
 - pip install requests
 
 - Run discord.py
